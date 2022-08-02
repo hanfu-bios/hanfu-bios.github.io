@@ -1,0 +1,88 @@
+# jemdoc: {HanFu.html}, nofooter
+== Han Fu
+
+Email: [fu.607@osu.edu]
+
+[https://scholar.google.com/citations?user=CpptfxAAAAAJ&hl=en Google Scholar]
+
+[https://www.linkedin.com/in/han-fu-062554a4/ LinkedIn]
+
+[https://github.com/hanfu-bios GitHub]
+
+= About me
+I am a Ph.D. candidate in Biostatistics at the Ohio State University, advised by [https://cph.osu.edu/people/karcher Dr. Kellie J. Archer]. My thesis topic is high-dimensional feature selection for ordinal data and event-to-time data. Before this, I obtained my Master's degree in Biostatistics at the University of Michigan. 
+
+= Publications
+
+High-dimensional feature selection with false discovery rate (FDR) control
+
+- *Controlled variable selection in Weibull mixture cure models for high‐dimensional data* ([https://onlinelibrary.wiley.com/doi/full/10.1002/sim.9513 paper], [https://github.com/hanfu-bios/curemodels code])\n
+*Han Fu*, Deedra Nicolet, Krzysztof Mrózek, Richard M Stone, Ann‐Kathrin Eisfeld, John C Byrd, Kellie J Archer\n
+Statistics in Medicine (2022): 1-27, doi: 10.1002/sim.9513
+
+- *High-dimensional variable selection for ordinal outcomes with error control* ([https://academic.oup.com/bib/article-abstract/22/1/334/5729208?redirectedFrom=fulltext paper], [https://github.com/hanfu-bios/ordinalVS code])\n
+*Han Fu*, Kellie J Archer\n  
+Briefings in Bioinformatics 22.1 (2021): 334-345
+
+- *False discovery rate control in cancer biomarker selection using knockoffs* ([https://www.mdpi.com/2072-6694/11/6/744 paper])\n
+Arlina Shen\*, *Han Fu*\*, Kevin He, Hui Jiang\n
+\*Authors contributed equally\n
+Cancers 11.6 (2019): 744
+
+Unsupervised clustering of school food environments
+
+- *[HTML] from sciencedirect.com
+Characterizing food environments near schools in California: a latent class approach simultaneously using multiple food outlet types and two spatial scales* ([https://www.sciencedirect.com/science/article/pii/S2211335522002443 paper])\n
+Brisa N Sánchez, *Han Fu*, Mika Matsuzaki, Emma Sanchez-Vaznaugh\n
+Preventive Medicine Reports (2022): 101937
+
+
+Collaborative work in cancer research
+
+- *Telomere lengths in women treated for breast cancer show associations with chemotherapy, pain symptoms, and cognitive domain measures: a longitudinal study* ([https://breast-cancer-research.biomedcentral.com/articles/10.1186/s13058-020-01368-6 paper])\n
+Areej A Alhareeri, Kellie J Archer, *Han Fu*, Debra E Lyon, RK Elswick, Debra L Kelly, Angela R Starkweather, Lynne W Elmore, Yahya A Bokhari, Colleen K Jackson-Cook\n
+Breast Cancer Research 22.1 (2020): 1-18
+
+- *Validation of a serum 4-microRNA signature for the detection of lung cancer* ([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6835096/ paper])\n
+Xia Yang, Wenmei Su, Xiuyuan Chen, Qianqian Geng, Jingyi Zhai, Hu Shan, Chunfang Guo, Zhuwen Wang, *Han Fu*, Hui Jiang, Jules Lin, Kiran Hari Lagisetty, Jie Zhang, Yali Li, Shuanying Yang, Pierre P Massion, David G Beer, Andrew C Chang, Nithya Ramnath, Guoan Chen\n
+Translational Lung Cancer Research 8.5 (2019): 636
+
+Economics and systems science
+
+- *Money creation and circulation in a credit economy* ([https://www.sciencedirect.com/science/article/pii/S0378437116305398 paper])\n
+Wanting Xiong, *Han Fu*, Yougui Wang\n
+Physica A: Statistical Mechanics and its Applications 465 (2017): 425-437
+
+- *Emergence of moving pattern in a collective game* ([https://iopscience.iop.org/article/10.1088/1742-6596/604/1/012020/meta paper])\n
+*Han Fu*, Yongbin Shi, Yougui Wang\n
+Journal of Physics: Conference Series. Vol. 604. No. 1. IOP Publishing, 2015
+
+- *Emergence of fair offers in ultimatum game* ([https://link.springer.com/chapter/10.1007/978-3-319-00912-4_9 paper])\n
+Wanting Xiong, *Han Fu*, Yougui Wang\n
+Artificial Economics and Self Organization. Springer, Cham, 2014. 107-118
+
+- *Emergence of aggregation from mutual beneficial interaction* ([https://www.computer.org/csdl/proceedings-article/taai/2013/2529a359/12OmNzIUfLI paper])\n
+*Han Fu*, Ke Wu, Chao Wang, Yougui Wang\n
+2013 Conference on Technologies and Applications of Artificial Intelligence. IEEE, 2013
+
+= Conferences
+
+- *Parmsurv: a SAS macro for flexible parametric survival analysis with long-term predictions*\n
+*Han Fu*, Shahrul Mt-Isa, Richard Baumgartner, William Malbecq ([https://phuse.s3.eu-central-1.amazonaws.com/Archive/2021/Connect/US/Virtual/PAP_AS03.pdf paper], [https://phuse.s3.eu-central-1.amazonaws.com/Archive/2021/Connect/US/Virtual/PRE_AS03.pdf slides], [https://github.com/Merck/Parmsurv code])\n 
+The Clinical Data Science Conference - PHUSE US Connect 2021, June 2021, Virtual
+
+- *Penalized Weibull mixture cure models with false discovery rate control*\n
+*Han Fu*, Kellie J Archer\n
+2021 Eastern North American Region (ENAR) Meeting, March 2021, Virtual
+
+- *Penalized Weibull mixture cure models with high-dimensional predictors*\n
+*Han Fu*, Kellie J Archer\n
+Contributed paper presentation at 2020  Joint Statistical Meetings (JSM), August 2020, Virtual
+
+- *High-dimensional controlled variable selection for ordinal outcomes*\n
+*Han Fu*, Kellie J Archer\n
+Contributed paper presentation at 2019 Joint Statistical Meetings (JSM), July 2019, Denver, CO
+
+- *Variable selection with Type I error control for ordinal responses*\n
+*Han Fu*, Kellie J Archer\n
+Invited presentation at Women in Data Science (WiDS) Columbus Event, April 2019, Columbus, OH
